@@ -1,5 +1,4 @@
 import { Router } from "express";
-import { userSchema } from "schema";
 import { client } from "./db.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";

@@ -1,4 +1,4 @@
-const { MongoClient, ServerApiVersion } = require("mongodb");
+import { MongoClient, ServerApiVersion } from "mongodb";
 const uri =
     "mongodb+srv://pratyakshkarmahe:Pratyaksh_102080@pratyaksh.zlulwny.mongodb.net/?appName=pratyaksh";
 
@@ -10,16 +10,4 @@ const client = new MongoClient(uri, {
     },
 });
 
-async function run() {
-    try {
-        await client.connect();
-
-        await client.db("admin").command({ ping: 1 });
-        console.log(
-            "Pinged your deployment. You successfully connected to MongoDB!",
-        );
-    } finally {
-        await client.close();
-    }
-}
-run().catch(console.dir);
+export { client };

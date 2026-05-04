@@ -1,0 +1,2610 @@
+{
+    "Prayagraj": {
+        "hotels": [
+            {
+                "name": "Heritage Prayagraj Inn",
+                "price": 5995,
+                "rating": 4.3,
+                "distance_from_station": 3.1
+            },
+            {
+                "name": "Prime Prayagraj Residency",
+                "price": 1531,
+                "rating": 3.7,
+                "distance_from_station": 5.5
+            },
+            {
+                "name": "Grand Prayagraj Residency",
+                "price": 6080,
+                "rating": 4.4,
+                "distance_from_station": 3.2
+            }
+        ]
+    },
+    "Agra": {
+        "hotels": [
+            {
+                "name": "Prime Agra Stay",
+                "price": 3003,
+                "rating": 4.5,
+                "distance_from_station": 5.6
+            },
+            {
+                "name": "Comfort Agra Inn",
+                "price": 3140,
+                "rating": 3.8,
+                "distance_from_station": 1.3
+            },
+            {
+                "name": "Grand Agra Residency",
+                "price": 4802,
+                "rating": 4.3,
+                "distance_from_station": 5.2
+            },
+            {
+                "name": "Heritage Agra Palace",
+                "price": 6501,
+                "rating": 4.0,
+                "distance_from_station": 3.5
+            },
+            {
+                "name": "Heritage Agra Suites",
+                "price": 5646,
+                "rating": 4.3,
+                "distance_from_station": 5.2
+            }
+        ]
+    },
+    "Rajnandgaon": {
+        "hotels": [
+            {
+                "name": "Heritage Rajnandgaon Hotel",
+                "price": 2373,
+                "rating": 4.5,
+                "distance_from_station": 2.0
+            },
+            {
+                "name": "Elite Rajnandgaon Palace",
+                "price": 5227,
+                "rating": 3.6,
+                "distance_from_station": 5.8
+            },
+            {
+                "name": "Comfort Rajnandgaon Inn",
+                "price": 7847,
+                "rating": 4.6,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Royal Rajnandgaon Residency",
+                "price": 5976,
+                "rating": 4.2,
+                "distance_from_station": 1.5
+            },
+            {
+                "name": "Comfort Rajnandgaon Palace",
+                "price": 3692,
+                "rating": 3.9,
+                "distance_from_station": 2.7
+            }
+        ]
+    },
+    "Nagpur": {
+        "hotels": [
+            {
+                "name": "Heritage Nagpur Stay",
+                "price": 4768,
+                "rating": 3.7,
+                "distance_from_station": 4.9
+            },
+            {
+                "name": "Prime Nagpur Lodge",
+                "price": 5022,
+                "rating": 3.8,
+                "distance_from_station": 5.8
+            }
+        ]
+    },
+    "Bathinda": {
+        "hotels": [
+            {
+                "name": "Royal Bathinda Inn",
+                "price": 7125,
+                "rating": 4.3,
+                "distance_from_station": 5.7
+            },
+            {
+                "name": "Heritage Bathinda Palace",
+                "price": 7509,
+                "rating": 4.8,
+                "distance_from_station": 5.5
+            }
+        ]
+    },
+    "Jammu": {
+        "hotels": [
+            {
+                "name": "Prime Jammu Residency",
+                "price": 4665,
+                "rating": 3.8,
+                "distance_from_station": 2.9
+            },
+            {
+                "name": "Elite Jammu Inn",
+                "price": 4202,
+                "rating": 4.0,
+                "distance_from_station": 3.4
+            }
+        ]
+    },
+    "Ranchi": {
+        "hotels": [
+            {
+                "name": "Prime Ranchi Suites",
+                "price": 3247,
+                "rating": 3.5,
+                "distance_from_station": 4.8
+            },
+            {
+                "name": "Comfort Ranchi Inn",
+                "price": 7013,
+                "rating": 3.7,
+                "distance_from_station": 4.2
+            },
+            {
+                "name": "Royal Ranchi Suites",
+                "price": 7770,
+                "rating": 3.9,
+                "distance_from_station": 3.6
+            }
+        ]
+    },
+    "Solapur": {
+        "hotels": [
+            {
+                "name": "Prime Solapur Inn",
+                "price": 1589,
+                "rating": 3.7,
+                "distance_from_station": 1.4
+            },
+            {
+                "name": "Prime Solapur Residency",
+                "price": 6173,
+                "rating": 4.5,
+                "distance_from_station": 5.6
+            },
+            {
+                "name": "Royal Solapur Inn",
+                "price": 4080,
+                "rating": 4.1,
+                "distance_from_station": 3.4
+            }
+        ]
+    },
+    "Ratlam": {
+        "hotels": [
+            {
+                "name": "Royal Ratlam Stay",
+                "price": 5699,
+                "rating": 3.8,
+                "distance_from_station": 3.7
+            },
+            {
+                "name": "Heritage Ratlam Residency",
+                "price": 1933,
+                "rating": 3.7,
+                "distance_from_station": 1.8
+            },
+            {
+                "name": "Heritage Ratlam Inn",
+                "price": 4970,
+                "rating": 4.0,
+                "distance_from_station": 3.7
+            },
+            {
+                "name": "Grand Ratlam Inn",
+                "price": 7508,
+                "rating": 3.8,
+                "distance_from_station": 5.7
+            }
+        ]
+    },
+    "Ajmer": {
+        "hotels": [
+            {
+                "name": "Grand Ajmer Palace",
+                "price": 1514,
+                "rating": 4.1,
+                "distance_from_station": 1.5
+            },
+            {
+                "name": "Grand Ajmer Suites",
+                "price": 6123,
+                "rating": 4.6,
+                "distance_from_station": 2.4
+            },
+            {
+                "name": "Royal Ajmer Lodge",
+                "price": 7895,
+                "rating": 3.7,
+                "distance_from_station": 5.8
+            },
+            {
+                "name": "Royal Ajmer Inn",
+                "price": 4027,
+                "rating": 4.2,
+                "distance_from_station": 2.2
+            },
+            {
+                "name": "Heritage Ajmer Inn",
+                "price": 1763,
+                "rating": 3.8,
+                "distance_from_station": 4.9
+            }
+        ]
+    },
+    "Siliguri": {
+        "hotels": [
+            {
+                "name": "Elite Siliguri Residency",
+                "price": 4807,
+                "rating": 4.1,
+                "distance_from_station": 2.3
+            },
+            {
+                "name": "Grand Siliguri Suites",
+                "price": 6795,
+                "rating": 3.9,
+                "distance_from_station": 5.2
+            }
+        ]
+    },
+    "Talcher": {
+        "hotels": [
+            {
+                "name": "Heritage Talcher Suites",
+                "price": 5390,
+                "rating": 4.0,
+                "distance_from_station": 1.3
+            },
+            {
+                "name": "Budget Talcher Palace",
+                "price": 3051,
+                "rating": 4.2,
+                "distance_from_station": 2.3
+            },
+            {
+                "name": "Heritage Talcher Inn",
+                "price": 5638,
+                "rating": 4.7,
+                "distance_from_station": 3.6
+            },
+            {
+                "name": "Comfort Talcher Lodge",
+                "price": 5003,
+                "rating": 4.4,
+                "distance_from_station": 2.0
+            }
+        ]
+    },
+    "Pali": {
+        "hotels": [
+            {
+                "name": "Heritage Pali Hotel",
+                "price": 7012,
+                "rating": 4.2,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Comfort Pali Hotel",
+                "price": 6439,
+                "rating": 4.4,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Heritage Pali Palace",
+                "price": 2663,
+                "rating": 4.5,
+                "distance_from_station": 1.6
+            }
+        ]
+    },
+    "Lucknow": {
+        "hotels": [
+            {
+                "name": "Heritage Lucknow Suites",
+                "price": 4691,
+                "rating": 4.4,
+                "distance_from_station": 1.2
+            },
+            {
+                "name": "Royal Lucknow Hotel",
+                "price": 4785,
+                "rating": 4.3,
+                "distance_from_station": 3.0
+            },
+            {
+                "name": "Budget Lucknow Residency",
+                "price": 3974,
+                "rating": 4.3,
+                "distance_from_station": 1.8
+            }
+        ]
+    },
+    "Amritsar": {
+        "hotels": [
+            {
+                "name": "Heritage Amritsar Palace",
+                "price": 2132,
+                "rating": 4.5,
+                "distance_from_station": 3.8
+            },
+            {
+                "name": "Comfort Amritsar Inn",
+                "price": 5913,
+                "rating": 4.3,
+                "distance_from_station": 3.9
+            },
+            {
+                "name": "Royal Amritsar Hotel",
+                "price": 6231,
+                "rating": 3.7,
+                "distance_from_station": 0.5
+            },
+            {
+                "name": "Heritage Amritsar Suites",
+                "price": 2304,
+                "rating": 4.1,
+                "distance_from_station": 4.0
+            }
+        ]
+    },
+    "Secunderabad": {
+        "hotels": [
+            {
+                "name": "Comfort Secunderabad Suites",
+                "price": 3654,
+                "rating": 4.4,
+                "distance_from_station": 2.7
+            },
+            {
+                "name": "Budget Secunderabad Suites",
+                "price": 1700,
+                "rating": 3.6,
+                "distance_from_station": 3.5
+            }
+        ]
+    },
+    "Ernakulam": {
+        "hotels": [
+            {
+                "name": "Elite Ernakulam Palace",
+                "price": 3852,
+                "rating": 4.2,
+                "distance_from_station": 5.0
+            },
+            {
+                "name": "Heritage Ernakulam Residency",
+                "price": 7286,
+                "rating": 3.9,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Prime Ernakulam Suites",
+                "price": 1905,
+                "rating": 4.4,
+                "distance_from_station": 6.0
+            },
+            {
+                "name": "Prime Ernakulam Palace",
+                "price": 5365,
+                "rating": 4.4,
+                "distance_from_station": 3.1
+            }
+        ]
+    },
+    "Mumbai": {
+        "hotels": [
+            {
+                "name": "Budget Mumbai Lodge",
+                "price": 5926,
+                "rating": 4.8,
+                "distance_from_station": 3.2
+            },
+            {
+                "name": "Royal Mumbai Suites",
+                "price": 4781,
+                "rating": 4.4,
+                "distance_from_station": 0.6
+            },
+            {
+                "name": "Budget Mumbai Hotel",
+                "price": 1753,
+                "rating": 4.1,
+                "distance_from_station": 3.8
+            },
+            {
+                "name": "Grand Mumbai Inn",
+                "price": 5802,
+                "rating": 4.5,
+                "distance_from_station": 4.6
+            }
+        ]
+    },
+    "Bhubaneswar": {
+        "hotels": [
+            {
+                "name": "Budget Bhubaneswar Stay",
+                "price": 4887,
+                "rating": 4.4,
+                "distance_from_station": 2.0
+            },
+            {
+                "name": "Royal Bhubaneswar Inn",
+                "price": 5549,
+                "rating": 3.9,
+                "distance_from_station": 4.6
+            }
+        ]
+    },
+    "Chengalpattu": {
+        "hotels": [
+            {
+                "name": "Heritage Chengalpattu Suites",
+                "price": 5450,
+                "rating": 3.8,
+                "distance_from_station": 2.5
+            },
+            {
+                "name": "Comfort Chengalpattu Hotel",
+                "price": 4106,
+                "rating": 4.0,
+                "distance_from_station": 3.8
+            },
+            {
+                "name": "Royal Chengalpattu Hotel",
+                "price": 5210,
+                "rating": 4.5,
+                "distance_from_station": 2.0
+            }
+        ]
+    },
+    "Jaisalmer": {
+        "hotels": [
+            {
+                "name": "Comfort Jaisalmer Residency",
+                "price": 2157,
+                "rating": 3.7,
+                "distance_from_station": 1.9
+            },
+            {
+                "name": "Royal Jaisalmer Stay",
+                "price": 4307,
+                "rating": 4.7,
+                "distance_from_station": 1.4
+            },
+            {
+                "name": "Royal Jaisalmer Lodge",
+                "price": 5256,
+                "rating": 3.5,
+                "distance_from_station": 3.9
+            },
+            {
+                "name": "Prime Jaisalmer Inn",
+                "price": 7443,
+                "rating": 4.5,
+                "distance_from_station": 5.6
+            },
+            {
+                "name": "Royal Jaisalmer Suites",
+                "price": 3847,
+                "rating": 3.8,
+                "distance_from_station": 4.9
+            }
+        ]
+    },
+    "Tambaram": {
+        "hotels": [
+            {
+                "name": "Budget Tambaram Hotel",
+                "price": 5431,
+                "rating": 3.8,
+                "distance_from_station": 5.3
+            },
+            {
+                "name": "Comfort Tambaram Stay",
+                "price": 4765,
+                "rating": 4.8,
+                "distance_from_station": 1.9
+            },
+            {
+                "name": "Grand Tambaram Palace",
+                "price": 5879,
+                "rating": 3.6,
+                "distance_from_station": 5.9
+            }
+        ]
+    },
+    "Firozpur": {
+        "hotels": [
+            {
+                "name": "Royal Firozpur Inn",
+                "price": 6392,
+                "rating": 4.2,
+                "distance_from_station": 2.2
+            },
+            {
+                "name": "Budget Firozpur Residency",
+                "price": 6484,
+                "rating": 4.0,
+                "distance_from_station": 3.2
+            },
+            {
+                "name": "Comfort Firozpur Palace",
+                "price": 4597,
+                "rating": 4.4,
+                "distance_from_station": 3.5
+            }
+        ]
+    },
+    "Warangal": {
+        "hotels": [
+            {
+                "name": "Elite Warangal Palace",
+                "price": 4790,
+                "rating": 4.3,
+                "distance_from_station": 2.9
+            },
+            {
+                "name": "Comfort Warangal Inn",
+                "price": 1707,
+                "rating": 4.3,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Grand Warangal Residency",
+                "price": 4653,
+                "rating": 4.5,
+                "distance_from_station": 5.0
+            },
+            {
+                "name": "Prime Warangal Inn",
+                "price": 1914,
+                "rating": 4.2,
+                "distance_from_station": 2.6
+            }
+        ]
+    },
+    "Asansol": {
+        "hotels": [
+            {
+                "name": "Heritage Asansol Stay",
+                "price": 6407,
+                "rating": 4.3,
+                "distance_from_station": 0.7
+            },
+            {
+                "name": "Heritage Asansol Residency",
+                "price": 3622,
+                "rating": 3.7,
+                "distance_from_station": 4.8
+            },
+            {
+                "name": "Prime Asansol Suites",
+                "price": 5273,
+                "rating": 3.8,
+                "distance_from_station": 2.9
+            },
+            {
+                "name": "Budget Asansol Lodge",
+                "price": 6700,
+                "rating": 4.4,
+                "distance_from_station": 5.0
+            }
+        ]
+    },
+    "Anand Vihar": {
+        "hotels": [
+            {
+                "name": "Comfort Anand Suites",
+                "price": 4775,
+                "rating": 3.8,
+                "distance_from_station": 5.4
+            },
+            {
+                "name": "Heritage Anand Palace",
+                "price": 3281,
+                "rating": 3.7,
+                "distance_from_station": 2.8
+            },
+            {
+                "name": "Comfort Anand Stay",
+                "price": 5102,
+                "rating": 4.6,
+                "distance_from_station": 4.9
+            },
+            {
+                "name": "Royal Anand Suites",
+                "price": 3223,
+                "rating": 4.3,
+                "distance_from_station": 0.8
+            }
+        ]
+    },
+    "Chakradharpur": {
+        "hotels": [
+            {
+                "name": "Grand Chakradharpur Inn",
+                "price": 7355,
+                "rating": 4.5,
+                "distance_from_station": 2.5
+            },
+            {
+                "name": "Grand Chakradharpur Palace",
+                "price": 6429,
+                "rating": 4.5,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Heritage Chakradharpur Suites",
+                "price": 7363,
+                "rating": 4.0,
+                "distance_from_station": 5.4
+            }
+        ]
+    },
+    "Gorakhpur": {
+        "hotels": [
+            {
+                "name": "Royal Gorakhpur Suites",
+                "price": 4022,
+                "rating": 4.5,
+                "distance_from_station": 4.4
+            },
+            {
+                "name": "Prime Gorakhpur Suites",
+                "price": 5455,
+                "rating": 4.5,
+                "distance_from_station": 4.9
+            }
+        ]
+    },
+    "Arakkonam": {
+        "hotels": [
+            {
+                "name": "Budget Arakkonam Lodge",
+                "price": 6316,
+                "rating": 4.6,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Elite Arakkonam Inn",
+                "price": 3404,
+                "rating": 3.8,
+                "distance_from_station": 0.5
+            },
+            {
+                "name": "Grand Arakkonam Residency",
+                "price": 4991,
+                "rating": 4.4,
+                "distance_from_station": 2.3
+            },
+            {
+                "name": "Grand Arakkonam Stay",
+                "price": 3553,
+                "rating": 3.8,
+                "distance_from_station": 3.0
+            },
+            {
+                "name": "Prime Arakkonam Suites",
+                "price": 2666,
+                "rating": 4.0,
+                "distance_from_station": 4.3
+            }
+        ]
+    },
+    "Chennai Egmore": {
+        "hotels": [
+            {
+                "name": "Grand Chennai Lodge",
+                "price": 3161,
+                "rating": 4.0,
+                "distance_from_station": 2.5
+            },
+            {
+                "name": "Comfort Chennai Residency",
+                "price": 5065,
+                "rating": 3.7,
+                "distance_from_station": 4.9
+            }
+        ]
+    },
+    "Vizianagaram": {
+        "hotels": [
+            {
+                "name": "Budget Vizianagaram Palace",
+                "price": 4248,
+                "rating": 3.5,
+                "distance_from_station": 5.5
+            },
+            {
+                "name": "Grand Vizianagaram Inn",
+                "price": 2305,
+                "rating": 3.8,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Elite Vizianagaram Palace",
+                "price": 2351,
+                "rating": 4.7,
+                "distance_from_station": 4.0
+            },
+            {
+                "name": "Heritage Vizianagaram Stay",
+                "price": 3914,
+                "rating": 3.8,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Heritage Vizianagaram Lodge",
+                "price": 3445,
+                "rating": 3.5,
+                "distance_from_station": 0.7
+            }
+        ]
+    },
+    "Hisar": {
+        "hotels": [
+            {
+                "name": "Royal Hisar Stay",
+                "price": 3568,
+                "rating": 4.2,
+                "distance_from_station": 2.4
+            },
+            {
+                "name": "Royal Hisar Residency",
+                "price": 1532,
+                "rating": 4.1,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Heritage Hisar Hotel",
+                "price": 3490,
+                "rating": 4.0,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Prime Hisar Hotel",
+                "price": 7406,
+                "rating": 3.8,
+                "distance_from_station": 3.6
+            }
+        ]
+    },
+    "Bikaner": {
+        "hotels": [
+            {
+                "name": "Heritage Bikaner Hotel",
+                "price": 2100,
+                "rating": 4.5,
+                "distance_from_station": 2.0
+            },
+            {
+                "name": "Grand Bikaner Lodge",
+                "price": 3999,
+                "rating": 4.2,
+                "distance_from_station": 3.7
+            },
+            {
+                "name": "Prime Bikaner Residency",
+                "price": 6859,
+                "rating": 3.8,
+                "distance_from_station": 5.1
+            },
+            {
+                "name": "Elite Bikaner Hotel",
+                "price": 5034,
+                "rating": 3.6,
+                "distance_from_station": 1.0
+            }
+        ]
+    },
+    "Faridabad": {
+        "hotels": [
+            {
+                "name": "Budget Faridabad Lodge",
+                "price": 1472,
+                "rating": 4.3,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Grand Faridabad Hotel",
+                "price": 5558,
+                "rating": 4.1,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Heritage Faridabad Palace",
+                "price": 5544,
+                "rating": 3.7,
+                "distance_from_station": 5.4
+            },
+            {
+                "name": "Prime Faridabad Hotel",
+                "price": 1774,
+                "rating": 4.6,
+                "distance_from_station": 1.0
+            }
+        ]
+    },
+    "Durgapur": {
+        "hotels": [
+            {
+                "name": "Grand Durgapur Palace",
+                "price": 6809,
+                "rating": 4.3,
+                "distance_from_station": 2.7
+            },
+            {
+                "name": "Royal Durgapur Residency",
+                "price": 3384,
+                "rating": 4.4,
+                "distance_from_station": 5.9
+            }
+        ]
+    },
+    "Cuttack": {
+        "hotels": [
+            {
+                "name": "Prime Cuttack Hotel",
+                "price": 1910,
+                "rating": 3.7,
+                "distance_from_station": 5.6
+            },
+            {
+                "name": "Prime Cuttack Inn",
+                "price": 1356,
+                "rating": 3.6,
+                "distance_from_station": 1.2
+            }
+        ]
+    },
+    "Jolarpettai": {
+        "hotels": [
+            {
+                "name": "Budget Jolarpettai Palace",
+                "price": 6371,
+                "rating": 4.8,
+                "distance_from_station": 1.5
+            },
+            {
+                "name": "Grand Jolarpettai Hotel",
+                "price": 2303,
+                "rating": 4.5,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Comfort Jolarpettai Hotel",
+                "price": 2405,
+                "rating": 4.1,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Elite Jolarpettai Stay",
+                "price": 7726,
+                "rating": 3.5,
+                "distance_from_station": 0.6
+            },
+            {
+                "name": "Royal Jolarpettai Stay",
+                "price": 6451,
+                "rating": 4.6,
+                "distance_from_station": 4.5
+            }
+        ]
+    },
+    "Katpadi": {
+        "hotels": [
+            {
+                "name": "Royal Katpadi Lodge",
+                "price": 7157,
+                "rating": 3.8,
+                "distance_from_station": 1.8
+            },
+            {
+                "name": "Heritage Katpadi Palace",
+                "price": 2410,
+                "rating": 4.0,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Grand Katpadi Lodge",
+                "price": 2688,
+                "rating": 4.1,
+                "distance_from_station": 4.9
+            }
+        ]
+    },
+    "Saharanpur": {
+        "hotels": [
+            {
+                "name": "Budget Saharanpur Hotel",
+                "price": 6531,
+                "rating": 4.1,
+                "distance_from_station": 4.4
+            },
+            {
+                "name": "Prime Saharanpur Palace",
+                "price": 7583,
+                "rating": 4.2,
+                "distance_from_station": 5.3
+            }
+        ]
+    },
+    "Hyderabad": {
+        "hotels": [
+            {
+                "name": "Prime Hyderabad Lodge",
+                "price": 6191,
+                "rating": 3.6,
+                "distance_from_station": 4.4
+            },
+            {
+                "name": "Royal Hyderabad Stay",
+                "price": 3302,
+                "rating": 4.3,
+                "distance_from_station": 4.8
+            },
+            {
+                "name": "Comfort Hyderabad Palace",
+                "price": 3464,
+                "rating": 4.2,
+                "distance_from_station": 2.8
+            },
+            {
+                "name": "Comfort Hyderabad Hotel",
+                "price": 4343,
+                "rating": 4.0,
+                "distance_from_station": 5.1
+            }
+        ]
+    },
+    "New Jalpaiguri": {
+        "hotels": [
+            {
+                "name": "Budget New Suites",
+                "price": 2491,
+                "rating": 4.4,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Heritage New Inn",
+                "price": 2945,
+                "rating": 3.7,
+                "distance_from_station": 0.7
+            },
+            {
+                "name": "Elite New Stay",
+                "price": 3757,
+                "rating": 4.0,
+                "distance_from_station": 4.8
+            },
+            {
+                "name": "Heritage New Suites",
+                "price": 4717,
+                "rating": 4.2,
+                "distance_from_station": 1.3
+            },
+            {
+                "name": "Grand New Lodge",
+                "price": 2096,
+                "rating": 3.7,
+                "distance_from_station": 4.4
+            }
+        ]
+    },
+    "Jamalpur": {
+        "hotels": [
+            {
+                "name": "Elite Jamalpur Residency",
+                "price": 5481,
+                "rating": 3.7,
+                "distance_from_station": 2.3
+            },
+            {
+                "name": "Heritage Jamalpur Palace",
+                "price": 5288,
+                "rating": 4.4,
+                "distance_from_station": 4.4
+            },
+            {
+                "name": "Heritage Jamalpur Residency",
+                "price": 4899,
+                "rating": 4.3,
+                "distance_from_station": 2.2
+            },
+            {
+                "name": "Budget Jamalpur Inn",
+                "price": 7242,
+                "rating": 4.6,
+                "distance_from_station": 5.3
+            }
+        ]
+    },
+    "Coimbatore": {
+        "hotels": [
+            {
+                "name": "Heritage Coimbatore Hotel",
+                "price": 1886,
+                "rating": 4.6,
+                "distance_from_station": 5.5
+            },
+            {
+                "name": "Heritage Coimbatore Hotel",
+                "price": 7327,
+                "rating": 3.8,
+                "distance_from_station": 3.6
+            },
+            {
+                "name": "Budget Coimbatore Inn",
+                "price": 3521,
+                "rating": 4.8,
+                "distance_from_station": 3.8
+            },
+            {
+                "name": "Prime Coimbatore Palace",
+                "price": 6456,
+                "rating": 3.8,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Elite Coimbatore Palace",
+                "price": 2605,
+                "rating": 4.0,
+                "distance_from_station": 5.4
+            }
+        ]
+    },
+    "Jaipur": {
+        "hotels": [
+            {
+                "name": "Heritage Jaipur Hotel",
+                "price": 7809,
+                "rating": 4.1,
+                "distance_from_station": 1.5
+            },
+            {
+                "name": "Grand Jaipur Suites",
+                "price": 5741,
+                "rating": 4.3,
+                "distance_from_station": 2.1
+            },
+            {
+                "name": "Heritage Jaipur Hotel",
+                "price": 3808,
+                "rating": 4.1,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Budget Jaipur Inn",
+                "price": 5676,
+                "rating": 3.6,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Grand Jaipur Suites",
+                "price": 2923,
+                "rating": 4.7,
+                "distance_from_station": 3.0
+            }
+        ]
+    },
+    "Madgaon (Goa)": {
+        "hotels": [
+            {
+                "name": "Elite Madgaon Hotel",
+                "price": 4484,
+                "rating": 3.5,
+                "distance_from_station": 3.9
+            },
+            {
+                "name": "Comfort Madgaon Stay",
+                "price": 6625,
+                "rating": 3.9,
+                "distance_from_station": 0.5
+            }
+        ]
+    },
+    "Bhopal": {
+        "hotels": [
+            {
+                "name": "Grand Bhopal Lodge",
+                "price": 7071,
+                "rating": 4.6,
+                "distance_from_station": 4.9
+            },
+            {
+                "name": "Elite Bhopal Inn",
+                "price": 5353,
+                "rating": 3.6,
+                "distance_from_station": 5.0
+            }
+        ]
+    },
+    "Malkajgiri": {
+        "hotels": [
+            {
+                "name": "Elite Malkajgiri Residency",
+                "price": 2538,
+                "rating": 4.5,
+                "distance_from_station": 4.2
+            },
+            {
+                "name": "Prime Malkajgiri Inn",
+                "price": 7865,
+                "rating": 4.1,
+                "distance_from_station": 2.5
+            },
+            {
+                "name": "Elite Malkajgiri Suites",
+                "price": 6016,
+                "rating": 4.7,
+                "distance_from_station": 3.6
+            },
+            {
+                "name": "Prime Malkajgiri Inn",
+                "price": 2623,
+                "rating": 3.7,
+                "distance_from_station": 2.3
+            }
+        ]
+    },
+    "Kanpur": {
+        "hotels": [
+            {
+                "name": "Comfort Kanpur Suites",
+                "price": 2422,
+                "rating": 4.2,
+                "distance_from_station": 3.9
+            },
+            {
+                "name": "Heritage Kanpur Palace",
+                "price": 6945,
+                "rating": 4.6,
+                "distance_from_station": 5.1
+            },
+            {
+                "name": "Elite Kanpur Residency",
+                "price": 2072,
+                "rating": 4.4,
+                "distance_from_station": 3.6
+            }
+        ]
+    },
+    "Thiruvananthapuram": {
+        "hotels": [
+            {
+                "name": "Elite Thiruvananthapuram Palace",
+                "price": 5945,
+                "rating": 3.9,
+                "distance_from_station": 3.2
+            },
+            {
+                "name": "Elite Thiruvananthapuram Hotel",
+                "price": 3660,
+                "rating": 3.8,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Budget Thiruvananthapuram Inn",
+                "price": 4971,
+                "rating": 3.6,
+                "distance_from_station": 4.5
+            },
+            {
+                "name": "Elite Thiruvananthapuram Palace",
+                "price": 7829,
+                "rating": 4.2,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Royal Thiruvananthapuram Residency",
+                "price": 3198,
+                "rating": 3.8,
+                "distance_from_station": 1.6
+            }
+        ]
+    },
+    "Vadodara": {
+        "hotels": [
+            {
+                "name": "Royal Vadodara Stay",
+                "price": 6964,
+                "rating": 3.9,
+                "distance_from_station": 1.0
+            },
+            {
+                "name": "Prime Vadodara Inn",
+                "price": 5137,
+                "rating": 4.3,
+                "distance_from_station": 4.8
+            },
+            {
+                "name": "Elite Vadodara Stay",
+                "price": 2367,
+                "rating": 4.3,
+                "distance_from_station": 3.1
+            }
+        ]
+    },
+    "Kharagpur": {
+        "hotels": [
+            {
+                "name": "Grand Kharagpur Residency",
+                "price": 6717,
+                "rating": 3.5,
+                "distance_from_station": 3.9
+            },
+            {
+                "name": "Elite Kharagpur Suites",
+                "price": 6499,
+                "rating": 4.7,
+                "distance_from_station": 1.5
+            }
+        ]
+    },
+    "Raigarh": {
+        "hotels": [
+            {
+                "name": "Grand Raigarh Residency",
+                "price": 4452,
+                "rating": 4.7,
+                "distance_from_station": 4.0
+            },
+            {
+                "name": "Budget Raigarh Residency",
+                "price": 5695,
+                "rating": 3.9,
+                "distance_from_station": 0.9
+            },
+            {
+                "name": "Elite Raigarh Residency",
+                "price": 1280,
+                "rating": 4.3,
+                "distance_from_station": 2.3
+            }
+        ]
+    },
+    "Surat": {
+        "hotels": [
+            {
+                "name": "Budget Surat Stay",
+                "price": 6238,
+                "rating": 4.0,
+                "distance_from_station": 2.9
+            },
+            {
+                "name": "Elite Surat Residency",
+                "price": 7886,
+                "rating": 4.2,
+                "distance_from_station": 1.7
+            }
+        ]
+    },
+    "Bengaluru": {
+        "hotels": [
+            {
+                "name": "Budget Bengaluru Hotel",
+                "price": 4354,
+                "rating": 4.8,
+                "distance_from_station": 4.5
+            },
+            {
+                "name": "Royal Bengaluru Lodge",
+                "price": 7839,
+                "rating": 4.1,
+                "distance_from_station": 3.0
+            },
+            {
+                "name": "Prime Bengaluru Suites",
+                "price": 5534,
+                "rating": 4.6,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Budget Bengaluru Inn",
+                "price": 4739,
+                "rating": 4.5,
+                "distance_from_station": 2.8
+            },
+            {
+                "name": "Elite Bengaluru Lodge",
+                "price": 3086,
+                "rating": 4.3,
+                "distance_from_station": 1.5
+            }
+        ]
+    },
+    "Patna": {
+        "hotels": [
+            {
+                "name": "Prime Patna Stay",
+                "price": 6097,
+                "rating": 3.6,
+                "distance_from_station": 2.2
+            },
+            {
+                "name": "Comfort Patna Hotel",
+                "price": 4666,
+                "rating": 4.8,
+                "distance_from_station": 4.0
+            },
+            {
+                "name": "Royal Patna Stay",
+                "price": 3463,
+                "rating": 4.3,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Prime Patna Suites",
+                "price": 3455,
+                "rating": 3.6,
+                "distance_from_station": 2.3
+            }
+        ]
+    },
+    "Anakapalle": {
+        "hotels": [
+            {
+                "name": "Grand Anakapalle Lodge",
+                "price": 7982,
+                "rating": 3.8,
+                "distance_from_station": 4.6
+            },
+            {
+                "name": "Grand Anakapalle Inn",
+                "price": 6903,
+                "rating": 4.3,
+                "distance_from_station": 3.4
+            },
+            {
+                "name": "Heritage Anakapalle Residency",
+                "price": 1918,
+                "rating": 4.0,
+                "distance_from_station": 1.0
+            },
+            {
+                "name": "Budget Anakapalle Lodge",
+                "price": 3192,
+                "rating": 4.4,
+                "distance_from_station": 0.9
+            },
+            {
+                "name": "Comfort Anakapalle Lodge",
+                "price": 4157,
+                "rating": 4.0,
+                "distance_from_station": 2.0
+            }
+        ]
+    },
+    "Rourkela": {
+        "hotels": [
+            {
+                "name": "Heritage Rourkela Palace",
+                "price": 5062,
+                "rating": 3.7,
+                "distance_from_station": 4.5
+            },
+            {
+                "name": "Prime Rourkela Suites",
+                "price": 6944,
+                "rating": 3.6,
+                "distance_from_station": 5.1
+            },
+            {
+                "name": "Royal Rourkela Lodge",
+                "price": 2497,
+                "rating": 3.7,
+                "distance_from_station": 3.1
+            }
+        ]
+    },
+    "Delhi (Nizamuddin)": {
+        "hotels": [
+            {
+                "name": "Comfort Delhi Suites",
+                "price": 7071,
+                "rating": 4.6,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Prime Delhi Hotel",
+                "price": 2934,
+                "rating": 4.1,
+                "distance_from_station": 4.7
+            },
+            {
+                "name": "Elite Delhi Stay",
+                "price": 2784,
+                "rating": 3.7,
+                "distance_from_station": 2.6
+            }
+        ]
+    },
+    "Delhi": {
+        "hotels": [
+            {
+                "name": "Royal Delhi Lodge",
+                "price": 6104,
+                "rating": 4.6,
+                "distance_from_station": 2.4
+            },
+            {
+                "name": "Prime Delhi Stay",
+                "price": 5658,
+                "rating": 3.9,
+                "distance_from_station": 3.7
+            },
+            {
+                "name": "Grand Delhi Inn",
+                "price": 1957,
+                "rating": 4.1,
+                "distance_from_station": 1.2
+            },
+            {
+                "name": "Grand Delhi Palace",
+                "price": 2356,
+                "rating": 4.8,
+                "distance_from_station": 5.3
+            }
+        ]
+    },
+    "Kannur": {
+        "hotels": [
+            {
+                "name": "Royal Kannur Stay",
+                "price": 1546,
+                "rating": 3.5,
+                "distance_from_station": 3.4
+            },
+            {
+                "name": "Grand Kannur Stay",
+                "price": 4813,
+                "rating": 4.3,
+                "distance_from_station": 1.1
+            },
+            {
+                "name": "Elite Kannur Lodge",
+                "price": 3064,
+                "rating": 4.2,
+                "distance_from_station": 4.5
+            },
+            {
+                "name": "Budget Kannur Suites",
+                "price": 4272,
+                "rating": 4.0,
+                "distance_from_station": 4.4
+            }
+        ]
+    },
+    "Bareilly": {
+        "hotels": [
+            {
+                "name": "Comfort Bareilly Stay",
+                "price": 2004,
+                "rating": 4.7,
+                "distance_from_station": 0.7
+            },
+            {
+                "name": "Royal Bareilly Stay",
+                "price": 3001,
+                "rating": 4.6,
+                "distance_from_station": 5.4
+            },
+            {
+                "name": "Comfort Bareilly Hotel",
+                "price": 6514,
+                "rating": 4.4,
+                "distance_from_station": 5.1
+            },
+            {
+                "name": "Heritage Bareilly Lodge",
+                "price": 4937,
+                "rating": 4.1,
+                "distance_from_station": 2.9
+            },
+            {
+                "name": "Prime Bareilly Residency",
+                "price": 6273,
+                "rating": 4.1,
+                "distance_from_station": 5.2
+            }
+        ]
+    },
+    "Durg": {
+        "hotels": [
+            {
+                "name": "Comfort Durg Palace",
+                "price": 4083,
+                "rating": 4.6,
+                "distance_from_station": 1.8
+            },
+            {
+                "name": "Comfort Durg Palace",
+                "price": 1773,
+                "rating": 4.6,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Heritage Durg Inn",
+                "price": 3631,
+                "rating": 4.7,
+                "distance_from_station": 3.5
+            }
+        ]
+    },
+    "Kota": {
+        "hotels": [
+            {
+                "name": "Prime Kota Stay",
+                "price": 7612,
+                "rating": 3.5,
+                "distance_from_station": 1.8
+            },
+            {
+                "name": "Prime Kota Suites",
+                "price": 1464,
+                "rating": 4.7,
+                "distance_from_station": 4.6
+            },
+            {
+                "name": "Budget Kota Hotel",
+                "price": 6332,
+                "rating": 4.6,
+                "distance_from_station": 0.7
+            },
+            {
+                "name": "Budget Kota Hotel",
+                "price": 1528,
+                "rating": 3.7,
+                "distance_from_station": 2.9
+            },
+            {
+                "name": "Grand Kota Residency",
+                "price": 3591,
+                "rating": 3.5,
+                "distance_from_station": 1.7
+            }
+        ]
+    },
+    "New Delhi": {
+        "hotels": [
+            {
+                "name": "Heritage New Inn",
+                "price": 1906,
+                "rating": 3.8,
+                "distance_from_station": 3.2
+            },
+            {
+                "name": "Elite New Inn",
+                "price": 6576,
+                "rating": 4.6,
+                "distance_from_station": 4.5
+            },
+            {
+                "name": "Prime New Lodge",
+                "price": 2068,
+                "rating": 4.3,
+                "distance_from_station": 0.9
+            },
+            {
+                "name": "Budget New Inn",
+                "price": 2794,
+                "rating": 4.4,
+                "distance_from_station": 2.8
+            }
+        ]
+    },
+    "Guntakal": {
+        "hotels": [
+            {
+                "name": "Budget Guntakal Residency",
+                "price": 6720,
+                "rating": 3.8,
+                "distance_from_station": 4.2
+            },
+            {
+                "name": "Royal Guntakal Residency",
+                "price": 4075,
+                "rating": 4.1,
+                "distance_from_station": 5.3
+            },
+            {
+                "name": "Heritage Guntakal Inn",
+                "price": 6513,
+                "rating": 4.2,
+                "distance_from_station": 3.7
+            }
+        ]
+    },
+    "Kalka": {
+        "hotels": [
+            {
+                "name": "Prime Kalka Palace",
+                "price": 7900,
+                "rating": 4.6,
+                "distance_from_station": 5.3
+            },
+            {
+                "name": "Grand Kalka Hotel",
+                "price": 4030,
+                "rating": 3.8,
+                "distance_from_station": 1.9
+            },
+            {
+                "name": "Elite Kalka Hotel",
+                "price": 5736,
+                "rating": 4.6,
+                "distance_from_station": 2.6
+            }
+        ]
+    },
+    "Tiruvallur": {
+        "hotels": [
+            {
+                "name": "Royal Tiruvallur Residency",
+                "price": 1311,
+                "rating": 4.3,
+                "distance_from_station": 4.2
+            },
+            {
+                "name": "Comfort Tiruvallur Suites",
+                "price": 2477,
+                "rating": 4.3,
+                "distance_from_station": 1.2
+            }
+        ]
+    },
+    "Jajpur": {
+        "hotels": [
+            {
+                "name": "Royal Jajpur Palace",
+                "price": 3178,
+                "rating": 3.5,
+                "distance_from_station": 2.1
+            },
+            {
+                "name": "Heritage Jajpur Suites",
+                "price": 2356,
+                "rating": 4.4,
+                "distance_from_station": 4.6
+            },
+            {
+                "name": "Comfort Jajpur Inn",
+                "price": 2702,
+                "rating": 3.5,
+                "distance_from_station": 2.1
+            },
+            {
+                "name": "Grand Jajpur Inn",
+                "price": 7782,
+                "rating": 4.1,
+                "distance_from_station": 3.1
+            }
+        ]
+    },
+    "Gondia": {
+        "hotels": [
+            {
+                "name": "Budget Gondia Suites",
+                "price": 7487,
+                "rating": 4.3,
+                "distance_from_station": 0.7
+            },
+            {
+                "name": "Comfort Gondia Palace",
+                "price": 4117,
+                "rating": 4.6,
+                "distance_from_station": 1.9
+            },
+            {
+                "name": "Royal Gondia Palace",
+                "price": 7260,
+                "rating": 4.2,
+                "distance_from_station": 5.5
+            }
+        ]
+    },
+    "Jharsuguda": {
+        "hotels": [
+            {
+                "name": "Elite Jharsuguda Hotel",
+                "price": 4791,
+                "rating": 4.8,
+                "distance_from_station": 1.2
+            },
+            {
+                "name": "Budget Jharsuguda Hotel",
+                "price": 3687,
+                "rating": 3.5,
+                "distance_from_station": 2.8
+            },
+            {
+                "name": "Heritage Jharsuguda Inn",
+                "price": 3364,
+                "rating": 4.7,
+                "distance_from_station": 2.5
+            }
+        ]
+    },
+    "Chennai": {
+        "hotels": [
+            {
+                "name": "Budget Chennai Palace",
+                "price": 6147,
+                "rating": 3.6,
+                "distance_from_station": 1.2
+            },
+            {
+                "name": "Comfort Chennai Stay",
+                "price": 6577,
+                "rating": 4.4,
+                "distance_from_station": 4.9
+            }
+        ]
+    },
+    "Bardhaman": {
+        "hotels": [
+            {
+                "name": "Heritage Bardhaman Residency",
+                "price": 1439,
+                "rating": 4.4,
+                "distance_from_station": 3.0
+            },
+            {
+                "name": "Grand Bardhaman Hotel",
+                "price": 6230,
+                "rating": 4.6,
+                "distance_from_station": 3.2
+            },
+            {
+                "name": "Budget Bardhaman Suites",
+                "price": 5699,
+                "rating": 4.2,
+                "distance_from_station": 2.3
+            }
+        ]
+    },
+    "Chandigarh": {
+        "hotels": [
+            {
+                "name": "Budget Chandigarh Palace",
+                "price": 4197,
+                "rating": 3.9,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Royal Chandigarh Suites",
+                "price": 6251,
+                "rating": 3.6,
+                "distance_from_station": 4.2
+            }
+        ]
+    },
+    "Kazipet": {
+        "hotels": [
+            {
+                "name": "Heritage Kazipet Palace",
+                "price": 4195,
+                "rating": 4.6,
+                "distance_from_station": 2.0
+            },
+            {
+                "name": "Prime Kazipet Suites",
+                "price": 7642,
+                "rating": 4.4,
+                "distance_from_station": 4.5
+            },
+            {
+                "name": "Budget Kazipet Suites",
+                "price": 2408,
+                "rating": 3.9,
+                "distance_from_station": 1.3
+            }
+        ]
+    },
+    "Guwahati": {
+        "hotels": [
+            {
+                "name": "Budget Guwahati Palace",
+                "price": 3390,
+                "rating": 4.5,
+                "distance_from_station": 5.5
+            },
+            {
+                "name": "Prime Guwahati Stay",
+                "price": 5553,
+                "rating": 4.7,
+                "distance_from_station": 2.2
+            },
+            {
+                "name": "Elite Guwahati Stay",
+                "price": 2436,
+                "rating": 3.7,
+                "distance_from_station": 2.4
+            }
+        ]
+    },
+    "Darbhanga": {
+        "hotels": [
+            {
+                "name": "Comfort Darbhanga Suites",
+                "price": 1921,
+                "rating": 3.7,
+                "distance_from_station": 1.3
+            },
+            {
+                "name": "Elite Darbhanga Hotel",
+                "price": 4806,
+                "rating": 4.6,
+                "distance_from_station": 4.6
+            },
+            {
+                "name": "Royal Darbhanga Palace",
+                "price": 7008,
+                "rating": 4.6,
+                "distance_from_station": 0.8
+            }
+        ]
+    },
+    "Bilaspur": {
+        "hotels": [
+            {
+                "name": "Grand Bilaspur Inn",
+                "price": 5859,
+                "rating": 3.7,
+                "distance_from_station": 3.9
+            },
+            {
+                "name": "Grand Bilaspur Suites",
+                "price": 3666,
+                "rating": 4.1,
+                "distance_from_station": 2.1
+            },
+            {
+                "name": "Royal Bilaspur Hotel",
+                "price": 3719,
+                "rating": 3.8,
+                "distance_from_station": 4.0
+            },
+            {
+                "name": "Comfort Bilaspur Suites",
+                "price": 5878,
+                "rating": 4.1,
+                "distance_from_station": 2.9
+            }
+        ]
+    },
+    "Samastipur": {
+        "hotels": [
+            {
+                "name": "Grand Samastipur Inn",
+                "price": 4426,
+                "rating": 3.6,
+                "distance_from_station": 2.1
+            },
+            {
+                "name": "Prime Samastipur Stay",
+                "price": 5034,
+                "rating": 4.1,
+                "distance_from_station": 2.6
+            },
+            {
+                "name": "Budget Samastipur Residency",
+                "price": 2656,
+                "rating": 4.5,
+                "distance_from_station": 2.7
+            }
+        ]
+    },
+    "Sonpur": {
+        "hotels": [
+            {
+                "name": "Comfort Sonpur Palace",
+                "price": 7988,
+                "rating": 3.7,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Royal Sonpur Suites",
+                "price": 3306,
+                "rating": 4.8,
+                "distance_from_station": 3.8
+            },
+            {
+                "name": "Elite Sonpur Lodge",
+                "price": 1941,
+                "rating": 4.8,
+                "distance_from_station": 5.4
+            }
+        ]
+    },
+    "Muzaffarpur": {
+        "hotels": [
+            {
+                "name": "Budget Muzaffarpur Stay",
+                "price": 6817,
+                "rating": 4.7,
+                "distance_from_station": 1.3
+            },
+            {
+                "name": "Royal Muzaffarpur Residency",
+                "price": 7104,
+                "rating": 3.7,
+                "distance_from_station": 1.3
+            },
+            {
+                "name": "Heritage Muzaffarpur Inn",
+                "price": 6828,
+                "rating": 3.8,
+                "distance_from_station": 3.5
+            }
+        ]
+    },
+    "Raxaul": {
+        "hotels": [
+            {
+                "name": "Grand Raxaul Palace",
+                "price": 1960,
+                "rating": 4.7,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Prime Raxaul Palace",
+                "price": 2565,
+                "rating": 4.8,
+                "distance_from_station": 1.5
+            },
+            {
+                "name": "Grand Raxaul Hotel",
+                "price": 1254,
+                "rating": 3.6,
+                "distance_from_station": 3.1
+            }
+        ]
+    },
+    "Visakhapatnam": {
+        "hotels": [
+            {
+                "name": "Comfort Visakhapatnam Lodge",
+                "price": 4944,
+                "rating": 4.2,
+                "distance_from_station": 1.4
+            },
+            {
+                "name": "Royal Visakhapatnam Inn",
+                "price": 1968,
+                "rating": 3.8,
+                "distance_from_station": 1.9
+            },
+            {
+                "name": "Comfort Visakhapatnam Lodge",
+                "price": 6252,
+                "rating": 4.7,
+                "distance_from_station": 2.5
+            },
+            {
+                "name": "Budget Visakhapatnam Stay",
+                "price": 6660,
+                "rating": 3.6,
+                "distance_from_station": 5.1
+            },
+            {
+                "name": "Elite Visakhapatnam Suites",
+                "price": 5199,
+                "rating": 4.5,
+                "distance_from_station": 5.9
+            }
+        ]
+    },
+    "Kacheguda": {
+        "hotels": [
+            {
+                "name": "Grand Kacheguda Residency",
+                "price": 5497,
+                "rating": 4.4,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Elite Kacheguda Hotel",
+                "price": 3960,
+                "rating": 3.9,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Elite Kacheguda Lodge",
+                "price": 3119,
+                "rating": 4.8,
+                "distance_from_station": 1.4
+            }
+        ]
+    },
+    "Ambala": {
+        "hotels": [
+            {
+                "name": "Comfort Ambala Palace",
+                "price": 6397,
+                "rating": 4.0,
+                "distance_from_station": 5.5
+            },
+            {
+                "name": "Comfort Ambala Palace",
+                "price": 3508,
+                "rating": 4.2,
+                "distance_from_station": 3.4
+            },
+            {
+                "name": "Heritage Ambala Palace",
+                "price": 2587,
+                "rating": 3.9,
+                "distance_from_station": 5.7
+            }
+        ]
+    },
+    "Udaipur": {
+        "hotels": [
+            {
+                "name": "Elite Udaipur Inn",
+                "price": 4007,
+                "rating": 4.1,
+                "distance_from_station": 3.5
+            },
+            {
+                "name": "Heritage Udaipur Hotel",
+                "price": 6368,
+                "rating": 3.7,
+                "distance_from_station": 0.6
+            },
+            {
+                "name": "Royal Udaipur Suites",
+                "price": 6402,
+                "rating": 4.6,
+                "distance_from_station": 5.0
+            },
+            {
+                "name": "Comfort Udaipur Lodge",
+                "price": 4759,
+                "rating": 4.2,
+                "distance_from_station": 5.1
+            },
+            {
+                "name": "Prime Udaipur Suites",
+                "price": 2332,
+                "rating": 4.3,
+                "distance_from_station": 5.8
+            }
+        ]
+    },
+    "Itarsi": {
+        "hotels": [
+            {
+                "name": "Budget Itarsi Suites",
+                "price": 2758,
+                "rating": 4.7,
+                "distance_from_station": 1.8
+            },
+            {
+                "name": "Royal Itarsi Suites",
+                "price": 6217,
+                "rating": 3.7,
+                "distance_from_station": 4.0
+            }
+        ]
+    },
+    "Varanasi": {
+        "hotels": [
+            {
+                "name": "Grand Varanasi Lodge",
+                "price": 4913,
+                "rating": 4.7,
+                "distance_from_station": 0.8
+            },
+            {
+                "name": "Heritage Varanasi Lodge",
+                "price": 6409,
+                "rating": 3.8,
+                "distance_from_station": 0.9
+            },
+            {
+                "name": "Heritage Varanasi Suites",
+                "price": 4019,
+                "rating": 4.2,
+                "distance_from_station": 1.0
+            },
+            {
+                "name": "Comfort Varanasi Palace",
+                "price": 6140,
+                "rating": 4.3,
+                "distance_from_station": 1.9
+            },
+            {
+                "name": "Grand Varanasi Suites",
+                "price": 4497,
+                "rating": 4.5,
+                "distance_from_station": 5.4
+            }
+        ]
+    },
+    "Shalimar": {
+        "hotels": [
+            {
+                "name": "Elite Shalimar Inn",
+                "price": 5539,
+                "rating": 3.6,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Royal Shalimar Suites",
+                "price": 3690,
+                "rating": 4.5,
+                "distance_from_station": 1.2
+            },
+            {
+                "name": "Budget Shalimar Suites",
+                "price": 5701,
+                "rating": 4.7,
+                "distance_from_station": 5.6
+            }
+        ]
+    },
+    "Sambalpur": {
+        "hotels": [
+            {
+                "name": "Elite Sambalpur Stay",
+                "price": 7219,
+                "rating": 3.6,
+                "distance_from_station": 2.7
+            },
+            {
+                "name": "Royal Sambalpur Palace",
+                "price": 7502,
+                "rating": 3.8,
+                "distance_from_station": 2.3
+            },
+            {
+                "name": "Prime Sambalpur Inn",
+                "price": 3586,
+                "rating": 4.6,
+                "distance_from_station": 2.4
+            },
+            {
+                "name": "Prime Sambalpur Lodge",
+                "price": 6843,
+                "rating": 3.8,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Grand Sambalpur Inn",
+                "price": 6181,
+                "rating": 4.2,
+                "distance_from_station": 5.3
+            }
+        ]
+    },
+    "Ludhiana": {
+        "hotels": [
+            {
+                "name": "Budget Ludhiana Inn",
+                "price": 3567,
+                "rating": 4.1,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Royal Ludhiana Lodge",
+                "price": 5422,
+                "rating": 4.0,
+                "distance_from_station": 1.8
+            }
+        ]
+    },
+    "Angul": {
+        "hotels": [
+            {
+                "name": "Prime Angul Stay",
+                "price": 7301,
+                "rating": 4.2,
+                "distance_from_station": 4.9
+            },
+            {
+                "name": "Royal Angul Inn",
+                "price": 7671,
+                "rating": 3.9,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Elite Angul Palace",
+                "price": 4250,
+                "rating": 3.9,
+                "distance_from_station": 2.8
+            },
+            {
+                "name": "Elite Angul Lodge",
+                "price": 1542,
+                "rating": 4.4,
+                "distance_from_station": 5.2
+            },
+            {
+                "name": "Heritage Angul Suites",
+                "price": 3012,
+                "rating": 3.6,
+                "distance_from_station": 1.2
+            }
+        ]
+    },
+    "Moradabad": {
+        "hotels": [
+            {
+                "name": "Prime Moradabad Residency",
+                "price": 5111,
+                "rating": 4.1,
+                "distance_from_station": 2.9
+            },
+            {
+                "name": "Heritage Moradabad Inn",
+                "price": 7678,
+                "rating": 3.6,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Royal Moradabad Stay",
+                "price": 1495,
+                "rating": 4.7,
+                "distance_from_station": 4.4
+            },
+            {
+                "name": "Budget Moradabad Lodge",
+                "price": 7187,
+                "rating": 4.8,
+                "distance_from_station": 1.3
+            }
+        ]
+    },
+    "Jamshedpur": {
+        "hotels": [
+            {
+                "name": "Elite Jamshedpur Palace",
+                "price": 7553,
+                "rating": 4.1,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Grand Jamshedpur Suites",
+                "price": 1359,
+                "rating": 4.2,
+                "distance_from_station": 5.2
+            },
+            {
+                "name": "Grand Jamshedpur Inn",
+                "price": 3296,
+                "rating": 4.5,
+                "distance_from_station": 4.0
+            }
+        ]
+    },
+    "Tirupati": {
+        "hotels": [
+            {
+                "name": "Grand Tirupati Inn",
+                "price": 7001,
+                "rating": 3.8,
+                "distance_from_station": 4.4
+            },
+            {
+                "name": "Elite Tirupati Stay",
+                "price": 4184,
+                "rating": 3.6,
+                "distance_from_station": 1.0
+            },
+            {
+                "name": "Heritage Tirupati Stay",
+                "price": 5646,
+                "rating": 4.3,
+                "distance_from_station": 1.1
+            }
+        ]
+    },
+    "Kozhikode": {
+        "hotels": [
+            {
+                "name": "Prime Kozhikode Hotel",
+                "price": 7624,
+                "rating": 4.4,
+                "distance_from_station": 3.8
+            },
+            {
+                "name": "Royal Kozhikode Palace",
+                "price": 5874,
+                "rating": 3.8,
+                "distance_from_station": 4.6
+            },
+            {
+                "name": "Comfort Kozhikode Palace",
+                "price": 2991,
+                "rating": 4.8,
+                "distance_from_station": 3.1
+            }
+        ]
+    },
+    "Madurai": {
+        "hotels": [
+            {
+                "name": "Royal Madurai Palace",
+                "price": 1599,
+                "rating": 3.7,
+                "distance_from_station": 5.7
+            },
+            {
+                "name": "Royal Madurai Palace",
+                "price": 2770,
+                "rating": 3.5,
+                "distance_from_station": 5.8
+            },
+            {
+                "name": "Grand Madurai Stay",
+                "price": 4864,
+                "rating": 3.8,
+                "distance_from_station": 1.6
+            }
+        ]
+    },
+    "Kolkata": {
+        "hotels": [
+            {
+                "name": "Budget Kolkata Stay",
+                "price": 5492,
+                "rating": 3.6,
+                "distance_from_station": 4.5
+            },
+            {
+                "name": "Royal Kolkata Lodge",
+                "price": 5279,
+                "rating": 4.8,
+                "distance_from_station": 5.3
+            },
+            {
+                "name": "Prime Kolkata Lodge",
+                "price": 6431,
+                "rating": 4.8,
+                "distance_from_station": 4.2
+            }
+        ]
+    },
+    "Pune": {
+        "hotels": [
+            {
+                "name": "Heritage Pune Palace",
+                "price": 5613,
+                "rating": 4.0,
+                "distance_from_station": 3.2
+            },
+            {
+                "name": "Prime Pune Palace",
+                "price": 3920,
+                "rating": 3.5,
+                "distance_from_station": 1.6
+            },
+            {
+                "name": "Comfort Pune Hotel",
+                "price": 6949,
+                "rating": 4.0,
+                "distance_from_station": 5.6
+            },
+            {
+                "name": "Comfort Pune Lodge",
+                "price": 2338,
+                "rating": 4.7,
+                "distance_from_station": 1.1
+            },
+            {
+                "name": "Heritage Pune Residency",
+                "price": 7600,
+                "rating": 4.0,
+                "distance_from_station": 1.3
+            }
+        ]
+    },
+    "Kiul": {
+        "hotels": [
+            {
+                "name": "Prime Kiul Palace",
+                "price": 2628,
+                "rating": 4.7,
+                "distance_from_station": 4.3
+            },
+            {
+                "name": "Elite Kiul Lodge",
+                "price": 5527,
+                "rating": 3.5,
+                "distance_from_station": 4.7
+            },
+            {
+                "name": "Comfort Kiul Inn",
+                "price": 3108,
+                "rating": 4.2,
+                "distance_from_station": 4.2
+            },
+            {
+                "name": "Prime Kiul Suites",
+                "price": 4452,
+                "rating": 4.1,
+                "distance_from_station": 3.0
+            }
+        ]
+    },
+    "Danapur": {
+        "hotels": [
+            {
+                "name": "Heritage Danapur Residency",
+                "price": 5628,
+                "rating": 4.3,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Prime Danapur Suites",
+                "price": 3368,
+                "rating": 3.6,
+                "distance_from_station": 5.2
+            },
+            {
+                "name": "Heritage Danapur Lodge",
+                "price": 1946,
+                "rating": 4.4,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Grand Danapur Stay",
+                "price": 3147,
+                "rating": 4.2,
+                "distance_from_station": 0.7
+            },
+            {
+                "name": "Grand Danapur Lodge",
+                "price": 3256,
+                "rating": 4.3,
+                "distance_from_station": 2.0
+            }
+        ]
+    },
+    "Kolhapur": {
+        "hotels": [
+            {
+                "name": "Budget Kolhapur Hotel",
+                "price": 7830,
+                "rating": 4.4,
+                "distance_from_station": 5.8
+            },
+            {
+                "name": "Prime Kolhapur Suites",
+                "price": 7791,
+                "rating": 3.6,
+                "distance_from_station": 1.7
+            }
+        ]
+    },
+    "Brahmapur": {
+        "hotels": [
+            {
+                "name": "Elite Brahmapur Suites",
+                "price": 2234,
+                "rating": 4.6,
+                "distance_from_station": 4.1
+            },
+            {
+                "name": "Budget Brahmapur Inn",
+                "price": 2751,
+                "rating": 3.7,
+                "distance_from_station": 4.8
+            }
+        ]
+    },
+    "Mathura": {
+        "hotels": [
+            {
+                "name": "Elite Mathura Palace",
+                "price": 3662,
+                "rating": 4.5,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Royal Mathura Lodge",
+                "price": 5833,
+                "rating": 4.8,
+                "distance_from_station": 5.7
+            },
+            {
+                "name": "Budget Mathura Suites",
+                "price": 2268,
+                "rating": 3.8,
+                "distance_from_station": 5.6
+            }
+        ]
+    },
+    "Salem": {
+        "hotels": [
+            {
+                "name": "Grand Salem Hotel",
+                "price": 6107,
+                "rating": 3.9,
+                "distance_from_station": 3.9
+            },
+            {
+                "name": "Heritage Salem Palace",
+                "price": 4045,
+                "rating": 3.7,
+                "distance_from_station": 1.1
+            },
+            {
+                "name": "Elite Salem Lodge",
+                "price": 4793,
+                "rating": 4.7,
+                "distance_from_station": 5.0
+            }
+        ]
+    },
+    "Gaya": {
+        "hotels": [
+            {
+                "name": "Prime Gaya Lodge",
+                "price": 2826,
+                "rating": 3.7,
+                "distance_from_station": 1.7
+            },
+            {
+                "name": "Royal Gaya Palace",
+                "price": 1593,
+                "rating": 4.1,
+                "distance_from_station": 3.5
+            },
+            {
+                "name": "Comfort Gaya Suites",
+                "price": 1961,
+                "rating": 4.7,
+                "distance_from_station": 5.7
+            },
+            {
+                "name": "Elite Gaya Residency",
+                "price": 2385,
+                "rating": 4.4,
+                "distance_from_station": 1.1
+            },
+            {
+                "name": "Royal Gaya Residency",
+                "price": 5802,
+                "rating": 3.6,
+                "distance_from_station": 5.7
+            }
+        ]
+    },
+    "Ahmedabad": {
+        "hotels": [
+            {
+                "name": "Royal Ahmedabad Suites",
+                "price": 3554,
+                "rating": 4.0,
+                "distance_from_station": 3.2
+            },
+            {
+                "name": "Budget Ahmedabad Stay",
+                "price": 3618,
+                "rating": 4.2,
+                "distance_from_station": 3.3
+            },
+            {
+                "name": "Royal Ahmedabad Suites",
+                "price": 2241,
+                "rating": 3.9,
+                "distance_from_station": 1.7
+            }
+        ]
+    }
+}

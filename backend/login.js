@@ -1,5 +1,4 @@
 import { Router } from "express";
-import { userSchema } from "schema";
 import { client } from "./db.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
@@ -23,7 +22,11 @@ loginRouter.post("/", async (req, res) => {
         expiresIn: "1h",
     });
 
-    res.json({ message: "Login successful", token });
+    res.json({
+        message: "Login successful",
+        token: token,
+        username: user.username,
+    });
 });
 
 export default loginRouter;
