@@ -28,6 +28,32 @@ const userSchema = new mongoose.Schema(
     },
 );
 
-userSchema.index({ email: 1 });
+const searchQuery = new mongoose.Schema({
+    from: {
+        type: String,
+        required: true,
+    },
+    to: {
+        type: String,
+        required: true,
+    },
+    startDate: {
+        type: Date,
+        required: true,
+    },
+    endDate: {
+        type: Date,
+        required: true,
+    },
+    user: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "User",
+        required: true,
+    },
+});
 
-export default mongoose.model("User", userSchema);
+userSchema.index({ email: 1 });
+searchQuery.index({ user: 1 });
+
+export const User = mongoose.model("User", userSchema);
+export const SearchQuery = mongoose.model("SearchQuery", searchQuery);

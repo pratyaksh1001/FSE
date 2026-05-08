@@ -1,8 +1,12 @@
 import { client } from "./db.js";
 import { Router } from "express";
+import { SearchQuery } from "./schema.js";
+import client from "./db.js";
+import cache from "./cache.js";
+
 const homeRouter = Router();
 
-stations = [
+const stations = [
     "New Delhi",
     "Mumbai",
     "Kolkata",
@@ -111,8 +115,26 @@ stations = [
     "Kalka",
 ];
 
-homeRouter.get("/data", async (req, res) => {});
+homeRouter.get("/data", async (req, res) => {
+    res.send({ cities: stations });
+});
 
-homeRouter.post("/", async (req, res) => {});
+homeRouter.post("/", async (req, res) => {
+    console.log(req.body);
+});
+
+homeRouter.post("/submit", async (req, res) => {
+    const { from, to, startDate, endDate, token } = req.body;
+    const user = cache[token];
+    if (!user) {
+        return res.status(401).json({
+            message: "Invalid token",
+        });
+    }
+    const dbuser=client.db("fse").collection("users").findOne({ email: JSON.parse(user).email });
+    const query=SearchQuery.parse({ from, to, startDate, endDate, userId: (dbuser)._id });
+    client.db("fse").collection("searchqueries").insertOne(query);
+    
+});
 
 export default homeRouter;

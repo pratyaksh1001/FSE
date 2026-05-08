@@ -1,7 +1,6 @@
 import json
 import random
 
-# ---- SAME CITY LIST ----
 cities = [
     "New Delhi",
     "Mumbai",
@@ -127,7 +126,6 @@ def generate_hotel(city):
     }
 
 
-# ---- MAIN GENERATION ----
 data = {}
 
 for city in cities:
@@ -135,9 +133,5 @@ for city in cities:
     hotels = [generate_hotel(city) for _ in range(num_hotels)]
 
     data[city] = {"hotels": hotels}
-
-# ---- SAVE FILE ----
 with open("hotels.json", "w") as f:
     json.dump(data, f, indent=2)
-
-print("✅ hotels.json generated for all cities")

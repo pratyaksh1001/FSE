@@ -2,6 +2,8 @@ import { Router } from "express";
 import { client } from "./db.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
+import cache from "./cache.js";
+
 const loginRouter = Router();
 
 loginRouter.post("/", async (req, res) => {
@@ -21,7 +23,10 @@ loginRouter.post("/", async (req, res) => {
     const token = jwt.sign({ email }, process.env.JWT_SECRET, {
         expiresIn: "1h",
     });
-
+    cache[token] = JSON.stringify({
+        email: user.email,
+        username: user.username,
+    });
     res.json({
         message: "Login successful",
         token: token,
