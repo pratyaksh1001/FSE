@@ -1,0 +1,23 @@
+# Root Git ignore for monorepo
+node_modules/
+*.log
+.env
+.env.local
+.env.*.local
+.DS_Store
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel/
+frontend/.turbo/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/.git-frontend-backup/
+
+# Backend artifacts
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/.env.*.local
