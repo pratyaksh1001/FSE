@@ -21,7 +21,7 @@ loginRouter.post("/", async (req, res) => {
             .json({ message: "Invalid username or password" });
     }
     const token = jwt.sign({ email }, process.env.JWT_SECRET, {
-        expiresIn: "1h",
+        expiresIn: "7d",
     });
     cache[token] = JSON.stringify({
         email: user.email,

@@ -1,7 +1,6 @@
 import json
 import random
 
-# ---------------- STATIONS / CITIES ----------------
 stations = [
     "New Delhi",
     "Mumbai",
@@ -113,8 +112,6 @@ stations = [
 
 stations = list(set(stations))
 
-# ---------------- HELPERS ----------------
-
 
 def generate_time():
     h = random.randint(0, 23)
@@ -128,7 +125,6 @@ def add_minutes(time_str, mins):
     return f"{(total // 60) % 24:02d}:{total % 60:02d}"
 
 
-# ---------------- TRAIN GENERATION ----------------
 
 
 def generate_train(i):
@@ -158,22 +154,18 @@ def generate_train(i):
     }
 
 
-# ---------------- FLIGHT GENERATION ----------------
 
 
 def generate_flight(i):
     src, dest = random.sample(stations, 2)
 
-    # realistic flight distance
     distance = random.randint(200, 2500)
 
     departure = generate_time()
 
-    # flights are faster → 500-800 km/h approx
     duration_minutes = int(distance / random.randint(500, 800) * 60)
     arrival = add_minutes(departure, duration_minutes)
 
-    # cost roughly proportional to distance
     cost = int(distance * random.uniform(4, 10))
 
     return {
@@ -187,7 +179,6 @@ def generate_flight(i):
     }
 
 
-# ---------------- MAIN ----------------
 
 trains = [generate_train(i) for i in range(1000)]
 flights = [generate_flight(i) for i in range(1000)]

@@ -12,12 +12,12 @@ export async function find_route(from, to) {
 
     const trains = await db.collection("trains").find({}).toArray();
 
-    const hotels = await db
+    const hotelDoc = await db
         .collection("hotels")
-        .find({
+        .findOne({
             city: to,
-        })
-        .toArray();
+        });
+    const hotels = hotelDoc ? hotelDoc.hotels : [];
 
     const graph = {};
 
@@ -33,7 +33,7 @@ export async function find_route(from, to) {
 
             vehicle: flight.flight_number || flight.flightNumber,
 
-            name: flight.flight_name || flight.flightName,
+            name: flight.flight_name || flight.flightName || "Flight",
 
             departure: flight.departure || flight.departureTime,
 
@@ -93,7 +93,11 @@ export async function find_route(from, to) {
     const answers = [];
 
     while (pq.length > 0) {
-        pq.sort((a, b) => a.totalDistance - b.totalDistance);
+        pq.sort((a, b) => {
+            const scoreA = a.totalDistance + (a.totalTime * 2) + (a.switches * 100);
+            const scoreB = b.totalDistance + (b.totalTime * 2) + (b.switches * 100);
+            return scoreA - scoreB;
+        });
 
         const current = pq.shift();
 

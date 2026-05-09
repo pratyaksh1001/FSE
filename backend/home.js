@@ -1,6 +1,6 @@
 import { client } from "./db.js";
 import { Router } from "express";
-import cache from "./cache.js";
+import jwt from "jsonwebtoken";
 import { find_route } from "./route_finding.js";
 
 const homeRouter = Router();
@@ -125,17 +125,25 @@ homeRouter.post("/", async (req, res) => {
 homeRouter.post("/submit", async (req, res) => {
     console.log("home submit");
     const { from, to, startDate, endDate, token } = req.body;
-    const user = cache[token];
-    console.log(user);
-    if (!user) {
+    if (!token) {
+        return res.status(401).json({
+            message: "Missing token",
+        });
+    }
+
+    let payload;
+    try {
+        payload = jwt.verify(token, process.env.JWT_SECRET);
+    } catch (err) {
         return res.status(401).json({
             message: "Invalid token",
         });
     }
+
     const dbuser = await client
         .db("fse")
         .collection("users")
-        .findOne({ email: JSON.parse(user).email });
+        .findOne({ email: payload.email });
     const query = {
         from,
         to,
