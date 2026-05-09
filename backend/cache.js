@@ -1,2 +1,2 @@
-const cache = Object.create(null);
+const cache = {};
 export default cache;

@@ -1,8 +1,7 @@
 import { client } from "./db.js";
 import { Router } from "express";
-import { SearchQuery } from "./schema.js";
-import client from "./db.js";
 import cache from "./cache.js";
+import { find_route } from "./route_finding.js";
 
 const homeRouter = Router();
 
@@ -124,17 +123,29 @@ homeRouter.post("/", async (req, res) => {
 });
 
 homeRouter.post("/submit", async (req, res) => {
+    console.log("home submit");
     const { from, to, startDate, endDate, token } = req.body;
     const user = cache[token];
+    console.log(user);
     if (!user) {
         return res.status(401).json({
             message: "Invalid token",
         });
     }
-    const dbuser=client.db("fse").collection("users").findOne({ email: JSON.parse(user).email });
-    const query=SearchQuery.parse({ from, to, startDate, endDate, userId: (dbuser)._id });
-    client.db("fse").collection("searchqueries").insertOne(query);
-    
+    const dbuser = await client
+        .db("fse")
+        .collection("users")
+        .findOne({ email: JSON.parse(user).email });
+    const query = {
+        from,
+        to,
+        startDate,
+        endDate,
+        user: dbuser._id,
+    };
+    await client.db("fse").collection("searchqueries").insertOne(query);
+    const result = await find_route(from, to);
+    return res.json(result);
 });
 
 export default homeRouter;
